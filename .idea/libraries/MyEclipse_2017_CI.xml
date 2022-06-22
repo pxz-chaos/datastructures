@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="MyEclipse 2017 CI">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/.." />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../.metadata/.me_tcat85/webapps/docs/appdev/sample/src" />
+      <root url="file://$PROJECT_DIR$/../.metadata/.me_tcat85/webapps/examples/WEB-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../.metadata/.me_tcat85/webapps/examples/WEB-INF/jsp/applet" />
+      <root url="file://$PROJECT_DIR$/../.metadata/.me_tcat85/webapps/examples/jsp/plugin/applet" />
+      <root url="file://$PROJECT_DIR$/../DataStructures/src" />
+      <root url="file://$PROJECT_DIR$/src" />
+      <root url="file://$PROJECT_DIR$/../How2j.cn/src" />
+      <root url="file://$PROJECT_DIR$/../JavaCode/src" />
+      <root url="file://$PROJECT_DIR$/../MyStudyJava/src" />
+      <root url="file://$PROJECT_DIR$/../MyTestProject/src" />
+      <root url="file://$PROJECT_DIR$/../NOWCODER/src" />
+      <root url="file://$PROJECT_DIR$/../jbdc_1/src/.metadata/.me_tcat85/webapps/docs/appdev/sample/src" />
+      <root url="file://$PROJECT_DIR$/../jbdc_1/src/.metadata/.me_tcat85/webapps/examples/WEB-INF/classes" />
+      <root url="file://$PROJECT_DIR$/../jbdc_1/src/.metadata/.me_tcat85/webapps/examples/WEB-INF/jsp/applet" />
+      <root url="file://$PROJECT_DIR$/../jbdc_1/src/.metadata/.me_tcat85/webapps/examples/jsp/plugin/applet" />
+      <root url="file://$PROJECT_DIR$/../jdbc/src" />
+      <root url="file://$PROJECT_DIR$/../leetCodePractise/src" />
+    </SOURCES>
+  </library>
+</component>
